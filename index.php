@@ -57,5 +57,7 @@ if (isset($_GET["numero"])) {
 
 ?>
 
+// Recuerda siempre manejar las verciones con git
+
 
 
